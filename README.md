@@ -22,7 +22,7 @@ pip install numpy
 Once you've installed Matplotlib, you can download the Function Plotter script from the GitHub repository:
 
 ```
-git clone https://github.com/mfawky/Function-Plotter.git
+git clone https://github.com/mfawky/Function-Plotter
 ```
 
 ## Operators
