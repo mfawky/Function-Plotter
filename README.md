@@ -35,18 +35,14 @@ For example a function of x would be in this formula "2*x**3 + 5*x + 1".
 
 ![Screenshot](Snapshots/FirstView.PNG)
 
-```
-```
-### Working Examples
+## Working Examples
 
 ![Screenshot](Snapshots/WorkingEx1.PNG)
 
 
 ![Screenshot](Snapshots/WorkingEx2.PNG)
 
-```
-```
-### Wrong Examples
+## Wrong Examples
 
 ![Screenshot](Snapshots/WrongEx1.PNG)
 
