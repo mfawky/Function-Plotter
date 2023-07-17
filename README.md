@@ -33,17 +33,17 @@ For example a function of x would be in this formula "2*x**3 + 5*x + 1".
 
 ## Trial
 
-![Screenshot](First View.png)
+![Screenshot](./Snapshots/First View.png)
 
 ### Working Examples
 
-![Screenshot](WorkingEx1.png)
+![Screenshot](./Snapshots/WorkingEx1.png)
 
-![Screenshot](WorkingEx2.png)
+![Screenshot](./Snapshots/WorkingEx2.png)
 
 
 ### Wrong Examples
 
-![Screenshot](WrongEx1.png)
+![Screenshot](./Snapshots/WrongEx1.png)
 
-![Screenshot](WrongEx2.png)
+![Screenshot](./Snapshots/WrongEx2.png)
