@@ -27,6 +27,9 @@ class FunctionPlot(QWidget):
         obj.plot_button = QPushButton("Plot Function", obj)
         obj.plot_button.clicked.connect(obj.plot_function)
 
+        # adjusts the size of the input
+        obj.setFixedSize(300, 300)
+
         # Create layout and add widgets
         layout = QVBoxLayout()
         layout.addWidget(obj.func_label)
