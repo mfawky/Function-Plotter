@@ -27,7 +27,7 @@ git clone https://github.com/mfawky/Function-Plotter.git
 
 ## Operators
 
-Make sure that the used operators are " +, -, *, /, ** ", or else it throws an error,
+Make sure that the used operators are "+", "-", "*", "/", "**", or else it throws an error,
 For example a function of x would be in this formula "2*x**3 + 5*x + 1".
 
 
