@@ -34,10 +34,11 @@ For example a function of x would be in this formula "2*x**3 + 5*x + 1".
 ## Trial
 
 ![Screenshot](./Snapshots/First View.png)
-
+```
 ### Working Examples
 
 ![Screenshot](./Snapshots/WorkingEx1.png)
+```
 
 ![Screenshot](./Snapshots/WorkingEx2.png)
 
