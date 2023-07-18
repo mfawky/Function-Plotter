@@ -44,6 +44,7 @@ class FunctionPlot(QWidget):
         obj.setLayout(layout)
 
     def plot_function(obj):
+
         # Get function and x range from user input
         
         func_str = obj.func_input.text()
@@ -85,3 +86,5 @@ if __name__ == "__main__":
     plotter = FunctionPlot()
     plotter.show()
     sys.exit(app.exec_())
+
+   
